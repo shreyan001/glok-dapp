@@ -6,17 +6,25 @@ About Glok
 Glok is built using the following technologies:
 
 Next.js,
+
 Langchain + Vercel Next.js template,
+
 LLama3 and BERT,
+
 Hardhat for Local node,
+
 Remix for Smart Contract Create &  Deploy,
+
 WalletConnect Web3modal,
+
 ethers.js,
+
 Additionally, Glok uses Ankr RPC for its operations,
 
 The contract for Glok is deployed on Scroll Sepolia with the following details:
 
 Contract Address: 0x4366808982cE144Ce1c6864ae40F4ED06ddA06f5
+
 Contract Verified Link: https://sepolia.scrollscan.com/address/0x4366808982ce144ce1c6864ae40f4ed06dda06f5#code
 
 Demo Video
