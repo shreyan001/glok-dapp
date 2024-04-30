@@ -40,7 +40,7 @@ Additionally, Glok uses Ankr RPC for its operations.
 
 Demo Video
 (https://www.loom.com/share/033905f1fe0446939226be65032c6f78?sid=e77ec906-78fa-4eda-97b6-7bf1e17d6a0d)
-
+https://glok-dapp.netlify.app/
 
 ![secreenshot2 png](https://github.com/shreyan001/glok-dapp/assets/70468855/4f4b5c17-93a1-433f-a44d-24c5843be155)
 ![Screenshot1](https://github.com/shreyan001/glok-dapp/assets/70468855/3ad92e54-745b-48d1-9484-edd02b9623a4)
