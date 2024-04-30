@@ -5,14 +5,14 @@ Glok is a revolutionary platform that transforms the way people access and monet
 About Glok
 Glok is built using the following technologies:
 
-Next.js
-Langchain + Vercel Next.js template
-LLama3 and BERT
-Hardhat for Local node
-Remix for Smart Contract Create &  Deploy
-WalletConnect Web3modal
-ethers.js
-Additionally, Glok uses Ankr RPC for its operations.
+Next.js,
+Langchain + Vercel Next.js template,
+LLama3 and BERT,
+Hardhat for Local node,
+Remix for Smart Contract Create &  Deploy,
+WalletConnect Web3modal,
+ethers.js,
+Additionally, Glok uses Ankr RPC for its operations,
 
 The contract for Glok is deployed on Scroll Sepolia with the following details:
 
