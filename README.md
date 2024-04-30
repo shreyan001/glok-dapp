@@ -1,8 +1,21 @@
 Glok
 Glok is a revolutionary platform that transforms the way people access and monetize research documents and insights. It leverages Web3 technology and AI to provide users with on-demand access to a vast repository of knowledge. Users can unlock precise information by paying per token or word, eliminating the need for traditional paywalls or subscriptions. Glok empowers individuals and organizations across various industries to access, share, and monetize knowledge efficiently and affordably.
 
+🚀 Getting Started
+First, clone this repo and download it locally.
 
-![img1]("C:\Users\acer\Downloads\Untitled.png")
+Next, you'll need to set up environment variables in your repo's .env.local file. Copy the .env.example file to .env.local. To start with the basic examples, you'll just need to add your API keys.
+
+Next, install the required packages using your preferred package manager (e.g. yarn).
+
+Now you're ready to run the development server:
+
+<mark>yarn dev</mark>
+
+Open http://localhost:3000 with your browser to see the result!
+
+
+<img width="3460" alt="Untitled" src="https://github.com/shreyan001/glok-dapp/assets/70468855/a24b3d82-bf8a-4c09-acdd-0e106c777624">
 
 
 About Glok
