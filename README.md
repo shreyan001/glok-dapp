@@ -1,6 +1,10 @@
 Glok
 Glok is a revolutionary platform that transforms the way people access and monetize research documents and insights. It leverages Web3 technology and AI to provide users with on-demand access to a vast repository of knowledge. Users can unlock precise information by paying per token or word, eliminating the need for traditional paywalls or subscriptions. Glok empowers individuals and organizations across various industries to access, share, and monetize knowledge efficiently and affordably.
 
+
+![img1]("C:\Users\acer\Downloads\Untitled.png")
+
+
 About Glok
 Glok is built using the following technologies:
 
@@ -11,6 +15,7 @@ Hardhat for Local node
 Remix for Smart Contract Create &  Deploy
 WalletConnect Web3modal
 ethers.js
+
 
 
 The contract for Glok is deployed on Scroll Sepolia with the following details:
@@ -24,3 +29,7 @@ Demo Video
 (https://www.loom.com/share/033905f1fe0446939226be65032c6f78?sid=e77ec906-78fa-4eda-97b6-7bf1e17d6a0d)
 
 
+![secreenshot2 png](https://github.com/shreyan001/glok-dapp/assets/70468855/4f4b5c17-93a1-433f-a44d-24c5843be155)
+![Screenshot1](https://github.com/shreyan001/glok-dapp/assets/70468855/3ad92e54-745b-48d1-9484-edd02b9623a4)
+![Screenshot2](https://github.com/shreyan001/glok-dapp/assets/70468855/f98a837a-7a8c-4e61-b8af-ae8946e64bb4)
+![screenshot4](https://github.com/shreyan001/glok-dapp/assets/70468855/3dbaa28d-9728-4a6b-ac03-0b07a304161f)
